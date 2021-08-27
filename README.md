@@ -1,5 +1,5 @@
 # Pagesheet App
-App to demonstrate a bottom sheet animated component without using modals
+App to demonstrate a bottom sheet animated component without using modal
 
 
 ### Setup
@@ -7,5 +7,5 @@ App to demonstrate a bottom sheet animated component without using modals
 - `npx pod-install` for ios
 
 ### Run
-- yarn run android - for android
-- yarn run ios - for ios
+- `yarn run android` - for android
+- `yarn run ios` - for ios
